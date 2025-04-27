@@ -4,5 +4,3 @@ My name is **Anastasios Diamantis** and I'm a software engineer who’s passiona
 
 ### 🔭 Currently Working On
 **HomeShare** – a high-performance, Dockerized file server for your home network with global access.  
-• Upload/download files to/from your computer  
-• Create time-limited sharing links for effortless collaboration
